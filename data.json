@@ -1,0 +1,302 @@
+[
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a1",
+		"title": "Cosmos",
+		"author": "Carl Sagan",
+		"author_info":
+			"Carl Sagan was Professor of Astronomy and Space Sciences and Director of the Laboratory for Planetary Studies at Cornell University. He played a leading role in the Mariner, Viking, and Voyager spacecraft expeditions to the planets, for which he received the NASA medals for Exceptional Scientific Achievement. Dr. Sagan received the Pulitzer Prize and the highest awards of both the National Academy of Sciences and the National Science Foundation, and many other awards, for his contributions to science, literature, education, and the preservation of the environment. His book Cosmos (accompanying his Emmy- and Peabody Award-winning television series of the same name) was the bestselling science book ever published in the English language, and his bestselling novel, Contact, was turned into a major motion picture.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833701/BookStore/Carl_Sagan_njyjjt.jpg",
+		"description":
+			"Cosmos is one of the bestselling science books of all time. In clear-eyed prose, Sagan reveals a jewel-like blue world inhabited by a life form that is just beginning to discover its own identity and to venture into the vast ocean of space. Cosmos retraces the fourteen billion years of cosmic evolution that have transformed matter into consciousness, exploring such topics as the origin of life, the human brain, Egyptian hieroglyphics, spacecraft missions, the death of the Sun, the evolution of galaxies, and the forces and individuals who helped to shape modern science.",
+		"price": 14.79,
+		"publish_date": "2014-03-11",
+		"publisher": "Ballantine Books",
+		"review": "Enticing,iridescent and imaginatively illustrated.",
+		"review_author": "The New York Times",
+		"num_pages": 439,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664832104/BookStore/cosmos_nez3av.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a2",
+		"title": "The Demon-Haunted World: Science as a Candle in the Dark ",
+		"author": "Carl Sagan",
+		"author_info":
+			"Carl Sagan was Professor of Astronomy and Space Sciences and Director of the Laboratory for Planetary Studies at Cornell University. He played a leading role in the Mariner, Viking, and Voyager spacecraft expeditions to the planets, for which he received the NASA medals for Exceptional Scientific Achievement. Dr. Sagan received the Pulitzer Prize and the highest awards of both the National Academy of Sciences and the National Science Foundation, and many other awards, for his contributions to science, literature, education, and the preservation of the environment. His book Cosmos (accompanying his Emmy- and Peabody Award-winning television series of the same name) was the bestselling science book ever published in the English language, and his bestselling novel, Contact, was turned into a major motion picture.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833701/BookStore/Carl_Sagan_njyjjt.jpg",
+		"description":
+			"Casting a wide net through history and culture, Sagan examines and authoritatively debunks such celebrated fallacies of the past as witchcraft, faith healing, demons, and UFOs. And yet, disturbingly, in today's so-called information age, pseudoscience is burgeoning with stories of alien abduction, channeling past lives, and communal hallucinations commanding growing attention and respect. As Sagan demonstrates with lucid eloquence, the siren song of unreason is not just a cultural wrong turn but a dangerous plunge into darkness that threatens our most basic freedoms",
+		"price": 18.79,
+		"publish_date": "2012-03-10",
+		"publisher": "Ballantine Books",
+		"review":
+			"Powerful . . . A stirring defense of informed rationality. . . Rich in surprising information and beautiful writing.",
+		"review_author": "The Washington Post Book World",
+		"num_pages": 482,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664832647/BookStore/The_Demon-Haunted_World_txefkq.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a3",
+		"title":
+			"The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+		"author": "Carl Sagan",
+		"author_info":
+			"Carl Sagan was Professor of Astronomy and Space Sciences and Director of the Laboratory for Planetary Studies at Cornell University. He played a leading role in the Mariner, Viking, and Voyager spacecraft expeditions to the planets, for which he received the NASA medals for Exceptional Scientific Achievement. Dr. Sagan received the Pulitzer Prize and the highest awards of both the National Academy of Sciences and the National Science Foundation, and many other awards, for his contributions to science, literature, education, and the preservation of the environment. His book Cosmos (accompanying his Emmy- and Peabody Award-winning television series of the same name) was the bestselling science book ever published in the English language, and his bestselling novel, Contact, was turned into a major motion picture.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833701/BookStore/Carl_Sagan_njyjjt.jpg",
+		"description":
+			"Dr. Carl Sagan takes us on a great reading adventure, offering his vivid and startling insight into the brain of man and beast, the origin of human intelligence, the function of our most haunting legends—and their amazing links to recent discoveries. He shows us how to think clearly about the world around us, and how to distinguish the real from the fantastic in our daily lives. He also reveals the extraordinary truth about the nature of the universe, and the remarkable fact that we are a part of it.",
+		"price": 15.79,
+		"publish_date": "2010-02-10",
+		"publisher": "Ballantine Books",
+		"review":
+			"A history of the human brain from the big bang, fifteen billion years ago, to the day before yesterday . . . It's a delight.",
+		"review_author": "The New York Times",
+		"num_pages": 289,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664832950/BookStore/The_Dragons_of_Eden_yxig5v.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a4",
+		"title": "Sapiens: A Brief History of Humankind",
+		"author": "Yuval Noah Harari",
+		"author_info":
+			"Prof. Yuval Noah Harari has a PhD in History from the University of Oxford and lectures at the Hebrew University of Jerusalem, specializing in world history. His books have been translated into 65 languages, with 40 million copies sold worldwide. 'Sapiens: A Brief History of Humankind' (2014) looked deep into our past, 'Homo Deus: A Brief History of Tomorrow' (2016) considered far-future scenarios, and '21 Lessons for the 21st Century' (2018) zoomed in on the biggest questions of the present moment. 'Sapiens: A Graphic History' (launched in 2020) is a radical adaptation of 'Sapiens' into a graphic novel series, which Harari created and co-wrote in collaboration with comics artists David Vandermeulen (co-writer) and Daniel Casanave (illustrator).",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833536/BookStore/Yuval_Noah_Harari_ftmfm9.jpg",
+		"description":
+			"From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us?",
+		"price": 19.89,
+		"publish_date": "2015-02-15",
+		"publisher": "Harper",
+		"review": "Harari is provocative and entertaining.",
+		"review_author": "Publisher Weekly",
+		"num_pages": 469,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833363/BookStore/Sapiens_A_Brief_History_of_Humankind_ntmer1.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a5",
+		"title": "Homo Deus: A Brief History of Tomorrow",
+		"author": "Yuval Noah Harari",
+		"author_info":
+			"Prof. Yuval Noah Harari has a PhD in History from the University of Oxford and lectures at the Hebrew University of Jerusalem, specializing in world history. His books have been translated into 65 languages, with 40 million copies sold worldwide. 'Sapiens: A Brief History of Humankind' (2014) looked deep into our past, 'Homo Deus: A Brief History of Tomorrow' (2016) considered far-future scenarios, and '21 Lessons for the 21st Century' (2018) zoomed in on the biggest questions of the present moment. 'Sapiens: A Graphic History' (launched in 2020) is a radical adaptation of 'Sapiens' into a graphic novel series, which Harari created and co-wrote in collaboration with comics artists David Vandermeulen (co-writer) and Daniel Casanave (illustrator).",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833536/BookStore/Yuval_Noah_Harari_ftmfm9.jpg",
+		"description":
+			"Over the past century, humankind has managed to do the impossible and rein in famine, plague, and war. This may seem hard to accept, but as Harari explains in his trademark style - thorough yet riveting - famine, plague, and war have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges. For the first time ever, more people die from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists, and criminals put together. The average American is 1,000 times more likely to die from binging at McDonalds than from being blown up by Al Qaeda. ",
+		"price": 22.69,
+		"publish_date": "2018-09-04",
+		"publisher": "Harper",
+		"review":
+			"Thrilling to watch such a talented author trample so freely across so many disciplines... Harari’s skill lies in the way he tilts the prism in all these fields and looks at the world in different ways, providing fresh angles on what we thought we knew... scintillating.",
+		"review_author": "Financial Times",
+		"num_pages": 464,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834116/BookStore/Home_Deus_a0unwk.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a6",
+		"title": "21 Lessons for the 21st Century",
+		"author": "Yuval Noah Harari",
+		"author_info":
+			"Prof. Yuval Noah Harari has a PhD in History from the University of Oxford and lectures at the Hebrew University of Jerusalem, specializing in world history. His books have been translated into 65 languages, with 40 million copies sold worldwide. 'Sapiens: A Brief History of Humankind' (2014) looked deep into our past, 'Homo Deus: A Brief History of Tomorrow' (2016) considered far-future scenarios, and '21 Lessons for the 21st Century' (2018) zoomed in on the biggest questions of the present moment. 'Sapiens: A Graphic History' (launched in 2020) is a radical adaptation of 'Sapiens' into a graphic novel series, which Harari created and co-wrote in collaboration with comics artists David Vandermeulen (co-writer) and Daniel Casanave (illustrator).",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833536/BookStore/Yuval_Noah_Harari_ftmfm9.jpg",
+		"description":
+			"Yuval Noah Harari’s 21 Lessons for the 21st Century is a probing and visionary investigation into today’s most urgent issues as we move into the uncharted territory of the future. As technology advances faster than our understanding of it, hacking becomes a tactic of war, and the world feels more polarized than ever, Harari addresses the challenge of navigating life in the face of constant and disorienting change and raises the important questions we need to ask ourselves in order to survive.",
+		"price": 18.59,
+		"publish_date": "2019-07-04",
+		"publisher": "Random House Publishing Group",
+		"review":
+			"Fascinating . . . a crucial global conversation about how to take on the problems of the twenty-first century.",
+		"review_author": "Bill Gates",
+		"num_pages": 416,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834378/BookStore/21_Lessons_g9gxnf.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a7",
+		"title": "The Selfish Gene",
+		"author": "Richard Dawkins",
+		"author_info":
+			"Richard Dawkins taught zoology at the University of California at Berkeley and at Oxford University and is now the Charles Simonyi Professor of the Public Understanding of Science at Oxford, a position he has held since 1995. Among his previous books are The Ancestor's Tale, The Selfish Gene, The Blind Watchmaker, Climbing Mount Improbable, Unweaving the Rainbow, and A Devil's Chaplain. Dawkins lives in Oxford with his wife, the actress and artist Lalla Ward.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834767/BookStore/Richard_Dawkins_upwd8t.jpg",
+		"description":
+			"As influential today as when it was first published, The Selfish Gene has become a classic exposition of evolutionary thought. Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication. This imaginative, powerful, and stylistically brilliant work not only brought the insights of Neo-Darwinism to a wide audience, but galvanized the biology community, generating much debate and stimulating whole new areas of research. Forty years later, its insights remain as relevant today as on the day it was published.",
+		"price": 14.59,
+		"publish_date": "2016-04-04",
+		"publisher": "Oxford University Press",
+		"review":
+			"Who should read this book? Everyone interested in the universe and their place in it.",
+		"review_author": "Jeffrey R. Baylis, Animal Behavior",
+		"num_pages": 544,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834994/BookStore/The_Selfish_gene_pie2yb.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a8",
+		"title": "The God Delusion",
+		"author": "Richard Dawkins",
+		"author_info":
+			"Richard Dawkins taught zoology at the University of California at Berkeley and at Oxford University and is now the Charles Simonyi Professor of the Public Understanding of Science at Oxford, a position he has held since 1995. Among his previous books are The Ancestor's Tale, The Selfish Gene, The Blind Watchmaker, Climbing Mount Improbable, Unweaving the Rainbow, and A Devil's Chaplain. Dawkins lives in Oxford with his wife, the actress and artist Lalla Ward.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834767/BookStore/Richard_Dawkins_upwd8t.jpg",
+		"description":
+			"With rigor and wit, Dawkins examines God in all his forms, from the sex-obsessed tyrant of the Old Testament to the more benign (but still illogical) Celestial Watchmaker favored by some Enlightenment thinkers. He eviscerates the major arguments for religion and demonstrates the supreme improbability of a supreme being. He shows how religion fuels war, foments bigotry, and abuses children, buttressing his points with historical and contemporary evidence. The God Delusion makes a compelling case that belief in God is not just wrong but potentially deadly. It also offers exhilarating insight into the advantages of atheism to the individual and society, not the least of which is a clearer, truer appreciation of the universe's wonders than any faith could ever muster.",
+		"price": 12.29,
+		"publish_date": "2012-03-01",
+		"publisher": "Mariner Books",
+		"review":
+			"A particularly comprehensive case against religion. Everyone should read it. Atheists will love Mr. Dawkins's incisive logic and rapier wit, and theists will find few better tests of the robustness of their faith.",
+		"review_author": "The New York Times",
+		"num_pages": 434,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664835249/BookStore/The_God_delusion_zbvvel.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1a9",
+		"title": "The Magic of Reality: How We Know What's Really True",
+		"author": "Richard Dawkins",
+		"author_info":
+			"Richard Dawkins taught zoology at the University of California at Berkeley and at Oxford University and is now the Charles Simonyi Professor of the Public Understanding of Science at Oxford, a position he has held since 1995. Among his previous books are The Ancestor's Tale, The Selfish Gene, The Blind Watchmaker, Climbing Mount Improbable, Unweaving the Rainbow, and A Devil's Chaplain. Dawkins lives in Oxford with his wife, the actress and artist Lalla Ward.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834767/BookStore/Richard_Dawkins_upwd8t.jpg",
+		"description":
+			"Filled with clever thought experiments and jaw-dropping facts, The Magic of Reality explains a stunningly wide range of natural phenomena: How old is the universe? Why do the continents look like disconnected pieces of a jigsaw puzzle? What causes tsunamis? Why are there so many kinds of plants and animals? Who was the first man, or woman? Why do we have to die? How do we know what's really true? With his trademark wit and clarity, Richard Dawkins answers these questions and more, taking readers on a dazzling journey through the realms of science, from the smallest subatomic particles to the largest galaxies. He shows how the laws of nature reveal a universe that is comprehensible and comprehended, a universe that is governed by rules that can be discovered by science. The Magic of Reality is a book for anyone who has ever wondered how we know what we think we know.",
+		"price": 18.79,
+		"publish_date": "2014-01-12",
+		"publisher": "Mariner Books",
+		"review":
+			"From the first sentence it reads with the force and fluency of a classic ... a luminous, authoritative prose that transcends age differences.",
+		"review_author": "The Times",
+		"num_pages": 276,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664835543/BookStore/The_Magic_of_Reality_xvrtqy.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1b1",
+		"title": "Starry Messenger: Cosmic Perspectives on Civilization",
+		"author": "Neil deGrasse Tyson",
+		"author_info":
+			"Neil deGrasse Tyson was born in New York City the same week NASA was founded. His interest in the universe traces back to age 9, after a first visit to the Hayden Planetarium of the American Museum of Natural History. He was educated in the public schools of New York City through his graduation from the Bronx High School of Science. And after an BA in Physics from Harvard and a PhD in Astrophysics from Columbia and a Postdoctoral research fellowship at Princeton, Tyson became the Frederick P. Rose Director of the Hayden Planetarium, where he has served since 1996.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664836027/BookStore/Neil_deGrasse_Tyson_c6emnd.jpg",
+		"description":
+			"With crystalline prose, Starry Messenger walks us through the scientific palette that sees and paints the world differently. From insights on resolving global conflict to reminders of how precious it is to be alive, Tyson reveals, with warmth and eloquence, an array of brilliant and beautiful truths that apply to us all, informed and enlightened by knowledge of our place in the universe. Starry Messenger is a book for anyone who has ever wondered how we know what we think we know.",
+		"price": 18.85,
+		"publish_date": "2015-04-01",
+		"publisher": "Henry Holt and Co.",
+		"review":
+			"Every page is lit up by an original poetic imagination but bearing the unmistakable stamp of a rational mind, steeped in maths and science.",
+		"review_author": "Richard Dawkins",
+		"num_pages": 288,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664836290/BookStore/Starry_Messenger_Cosmic_Perspectives_on_Civilization_v8xodm.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1b2",
+		"title": "Death by Black Hole: And Other Cosmic Quandaries",
+		"author": "Neil deGrasse Tyson",
+		"author_info":
+			"Neil deGrasse Tyson was born in New York City the same week NASA was founded. His interest in the universe traces back to age 9, after a first visit to the Hayden Planetarium of the American Museum of Natural History. He was educated in the public schools of New York City through his graduation from the Bronx High School of Science. And after an BA in Physics from Harvard and a PhD in Astrophysics from Columbia and a Postdoctoral research fellowship at Princeton, Tyson became the Frederick P. Rose Director of the Hayden Planetarium, where he has served since 1996.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664836027/BookStore/Neil_deGrasse_Tyson_c6emnd.jpg",
+		"description":
+			"Loyal readers of the monthly Universe essays in Natural History magazine have long recognized Neil deGrasse Tyson's talent for guiding them through the mysteries of the cosmos with clarity and enthusiasm. Bringing together more than forty of Tyson's favorite essays, Death by Black Hole explores a myriad of cosmic topics, from what it would be like to be inside a black hole to the movie industry's feeble efforts to get its night skies right. One of America's best-known astrophysicists, Tyson is a natural teacher who simplifies the complexities of astrophysics while sharing his infectious fascination for our universe.",
+		"price": 15.85,
+		"publish_date": "2017-02-01",
+		"publisher": "W. W. Norton & Company",
+		"review":
+			"Tyson comes across as having an excellent grasp of the current state of astrophysics, cosmology, chemistry and other scientific disciplines... he conveys knowledge clearly to the nonspecialist, often with ingratiating humor and wit.",
+		"review_author": "Roy E. Perry, The Tennessean",
+		"num_pages": 384,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838200/BookStore/Death_by_Black_Hole_And_Other_Cosmic_Quandaries_zg6kou.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1b3",
+		"title":
+			"Cosmic Queries: StarTalk's Guide to Who We Are, How We Got Here, and Where We're Going",
+		"author": "Neil deGrasse Tyson",
+		"author_info":
+			"Neil deGrasse Tyson was born in New York City the same week NASA was founded. His interest in the universe traces back to age 9, after a first visit to the Hayden Planetarium of the American Museum of Natural History. He was educated in the public schools of New York City through his graduation from the Bronx High School of Science. And after an BA in Physics from Harvard and a PhD in Astrophysics from Columbia and a Postdoctoral research fellowship at Princeton, Tyson became the Frederick P. Rose Director of the Hayden Planetarium, where he has served since 1996.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664836027/BookStore/Neil_deGrasse_Tyson_c6emnd.jpg",
+		"description":
+			"For science geeks, space and physics nerds, and all who want to understand their place in the universe, this enlightening new book from Neil deGrasse Tyson offers a unique take on the mysteries and curiosities of the cosmos, building on rich material from his beloved StarTalk podcast.In these illuminating pages, illustrated with dazzling photos and revealing graphics, Tyson and co-author James Trefil, a renowned physicist and science popularizer, take on the big questions that humanity has been posing for millennia--How did life begin? What is our place in the universe? Are we alone?--and provide answers based on the most current data, observations, and theories. Tyson and Trefil also explore the latest scientific discoveries and developments, including the search for life on other planets, the possibility of time travel, and the latest theories about the origins of the universe.",
+		"price": 24.85,
+		"publish_date": "2015-03-05",
+		"publisher": "W. W. Norton & Company",
+		"review":
+			"In the gulf between the depths of human curiosity and the limits of human ignorance” is a space to ask questions, write astrophysicist Tyson (StarTalk) and physicist Trefil (Imagined Life) in this breezy survey of physics’s curiosities. . . . Lay readers curious about the mysteries of the universe will want to take a look.",
+		"review_author": "Publishers Weekly",
+		"num_pages": 312,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838447/BookStore/Cosmic_Queries_StarTalk_s_Guide_to_Who_We_Are_How_We_Got_Here_and_Where_We_re_Going_z9dgdl.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1b4",
+		"title": "A Brief History of Time",
+		"author": "Stephen Hawking",
+		"author_info":
+			"Hawking was born in Oxford into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall at the University of Cambridge where, in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, at age 21, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.He died on 14 March 2018 at his home in Cambridge.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838790/BookStore/Stephen_Hawking_hndcyb.jpg",
+		"description":
+			"A landmark volume in science writing by one of the great minds of our time, Stephen Hawking’s book explores such profound questions as: How did the universe begin—and what made its start possible? Does time always flow forward? Is the universe unending—or are there boundaries? Are there other dimensions in space? What will happen when it all ends?Told in language we all can understand, A Brief History of Time plunges into the exotic realms of black holes and quarks, of antimatter and “arrows of time,” of the big bang and a bigger God—where the possibilities are wondrous and unexpected. With exciting images and profound imagination, Stephen Hawking brings us closer to the ultimate secrets at the very heart of creation.",
+		"price": 17.85,
+		"publish_date": "2012-01-05",
+		"publisher": "Bantam",
+		"review":
+			"This book marries a child’s wonder to a genius’s intellect. We journey into Hawking’s universe while marvelling at his mind. . . . A Brief History of Time is a book for all time.",
+		"review_author": "The Sunday Times",
+		"num_pages": 212,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838971/BookStore/a_brief_of_time_drkz4i.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1b5",
+		"title": "Brief Answers to the Big Questions",
+		"author": "Stephen Hawking",
+		"author_info":
+			"Hawking was born in Oxford into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall at the University of Cambridge where, in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, at age 21, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.He died on 14 March 2018 at his home in Cambridge.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838790/BookStore/Stephen_Hawking_hndcyb.jpg",
+		"description":
+			"Brief Answers to the Big Questions is a popular science book written by physicist Stephen Hawking, and published by Hodder & Stoughton (hardcover) and Bantam Books (paperback) on 16 October 2018. The book examines some of the universe's greatest mysteries, and promotes the view that science is very important in helping to solve problems on planet Earth. The publisher describes the book as a selection of [Hawking's] most profound, accessible, and timely reflections from his personal archive,and is based on, according to a book reviewer,half a million or so words from his essays, lectures and keynote speeches.",
+		"price": 14.25,
+		"publish_date": "2020-01-02",
+		"publisher": "John Murray",
+		"review":
+			"Hawking ticks off all the big ideas you’d expect from one of his books. General relativity. The Big Bang. Inflation. Galaxy formation. Gravitational waves.",
+		"review_author": "Matin Durrani",
+		"num_pages": 312,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664839420/BookStore/Brief_Answers_To_The_Big_Questions_fzkdwf.jpg"
+	},
+	{
+		"isbn": "b1a199b6-428f-4e5b-8fc3-fd6b99e1b1b6",
+		"title": "The Grand Design",
+		"author": "Stephen Hawking",
+		"author_info":
+			"Hawking was born in Oxford into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall at the University of Cambridge where, in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, at age 21, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.He died on 14 March 2018 at his home in Cambridge.",
+		"author_image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838790/BookStore/Stephen_Hawking_hndcyb.jpg",
+		"description":
+			"In The Grand Design they explain that according to quantum theory, the cosmos does not have just a single existence or history, but rather that every possible history of the universe exists simultaneously. When applied to the universe as a whole, this idea calls into question the very notion of cause and effect. But the “top-down” approach to cosmology that Hawking and Mlodinow describe would say that the fact that the past takes no definite form means that we create history by observing it, rather than that history creates us. The authors further explain that we ourselves are the product of quantum fluctuations in the very early universe, and show how quantum theory predicts the “multiverse”—the idea that ours is just one of many universes that appeared spontaneously out of nothing, each with different laws of nature. They also discuss the implications of this theory for the origin of life, and for the possibility of life on other planets.",
+		"price": 18.25,
+		"publish_date": "2018-02-08",
+		"publisher": "Random House",
+		"review":
+			"Traditionally these are questions for philosophy, but philosophy is dead. Philosophy has not kept up with modern developments in science, particularly physics. Scientists have become the bearers of the torch of discovery in our quest for knowledge.",
+		"review_author": "Kirkus Reviews",
+		"num_pages": 412,
+		"image":
+			"https://res.cloudinary.com/dc6vqigdn/image/upload/v1664839788/BookStore/The_Grand_Design_ycwrub.jpg"
+	}
+]
