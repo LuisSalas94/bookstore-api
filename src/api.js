@@ -6,7 +6,9 @@ const data = require("../data.json");
 const router = express.Router();
 
 router.get("/", (req, res) => {
-	res.send("Welcome to the Bookstore API");
+	res.send(
+		"<h3>Welcome to the Bookstore API by Fernando Salas</h3><a href='/api/books'>Books</a>"
+	);
 });
 
 router.get("/books", (req, res) => {
