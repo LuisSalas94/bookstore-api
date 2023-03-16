@@ -13,6 +13,7 @@
     "review_author": "The New York Times",
     "genre": "Science",
     "synopsis": "The book Cosmos by Carl Sagan is an exploration of the universe. In this book, Sagan gives a comprehensive description of the science, philosophy, and history of astronomical discovery, from ancient Ionia to the time of the book’s publication in 1980. He discusses some of the obstacles posed by religious belief and institutions to scientific inquiry throughout history, and he celebrates the victories of the scientific endeavor. Although much research has been done in astronomy since the publication of Cosmos, the book remains timeless in the sense of wonder and awe it evokes. Sagan provides us with food for thought on some of the biggest questions pondered by humanity—questions about our place and significance in the vast universe.",
+    "isPopular": true,
     "num_pages": 439,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664832104/BookStore/cosmos_nez3av.jpg"
   },
@@ -30,6 +31,7 @@
     "review_author": "The Washington Post Book World",
     "genre": "Science",
     "synopsis": "Published in 1995, The Demon-Haunted World is a work of non-fiction by Carl Sagan covering scientific skepticism and the importance of critical thinking. Upon publication, the book became a New York Times bestseller and garnered praise from the scientific community and the wider public for its clear-sighted argument. It continues to hold contemporary relevance and is considered an important book for the current skeptical movement, of which Sagan was an advocate. Written at the end of his life, The Demon-Haunted World sees Sagan distilling a lifetime of critical thinking and science teaching into a work that offers a process for cutting through the delusion and false-information which proliferate in our daily lives, a process he believes will enrich individuals and potentially shore up a deteriorating nation.",
+    "isPopular": false,
     "num_pages": 482,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664832647/BookStore/The_Demon-Haunted_World_txefkq.jpg"
   },
@@ -47,6 +49,7 @@
     "review_author": "The New York Times",
     "genre": "Science",
     "synopsis": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence is a 1977 book by Carl Sagan, in which the author combines the fields of anthropology, evolutionary biology, psychology, and computer science to give a perspective on how human intelligence may have evolved.Sagan discusses the search for a quantitative means of measuring intelligence. He argues that the brain to body mass ratio is an extremely good correlative indicator for intelligence, with humans having the highest ratio and dolphins the second highest,[1] though he views the trend as breaking down at smaller scales, with some small animals (ants in particular) placing disproportionately high on the list. Other topics mentioned include the evolution of the brain (with emphasis on the function of the neocortex in humans), the evolutionary purpose of sleep and dreams, demonstration of sign language abilities by chimps and the purpose of mankind's innate fears and myths. The title 'The Dragons of Eden' is borrowed from the notion that man's early struggle for survival in the face of predators, and in particular a fear of reptiles, may have led to cultural beliefs and myths about dragons.",
+    "isPopular": true,
     "num_pages": 289,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664832950/BookStore/The_Dragons_of_Eden_yxig5v.jpg"
   },
@@ -64,6 +67,7 @@
     "review_author": "Publisher Weekly",
     "genre": "History",
     "synopsis": "Harari's main argument is that Sapiens came to dominate the world because it is the only animal that can cooperate flexibly in large numbers. He argues that prehistoric Sapiens were a key cause of the extinction of other human species such as the Neanderthals and numerous other megafauna. He further argues that the ability of Sapiens to cooperate in large numbers arises from its unique capacity to believe in things existing purely in the imagination, such as gods, nations, money and human rights. He argues that these beliefs give rise to discrimination – whether racial, sexual or political - and it is potentially impossible to have a completely unbiased society. Harari claims that all large-scale human cooperation systems – including religions, political structures, trade networks and legal institutions – owe their emergence to Sapiens' distinctive cognitive capacity for fiction.[4] Accordingly, Harari regards money as a system of mutual trust and sees political and economic systems as more or less identical with religions.",
+    "isPopular": true,
     "num_pages": 469,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664833363/BookStore/Sapiens_A_Brief_History_of_Humankind_ntmer1.jpg"
   },
@@ -81,6 +85,7 @@
     "review_author": "Financial Times",
     "genre": "Social Philosophy",
     "synopsis": "As with its predecessor, Sapiens: A Brief History of Humankind, Harari recounts the course of human history while describing events and the individual human experience, along with ethical issues in relation to his historical survey. However, Homo Deus (from Latin 'Homo' meaning man or human and 'Deus' meaning God) deals more with the abilities acquired by humans (Homo sapiens) throughout their existence, and their evolution as the dominant species in the world. The book describes mankind's current abilities and achievements and attempts to paint an image of the future. Many philosophical issues are discussed, such as humanism, individualism, transhumanism, and mortality.",
+    "isPopular": false,
     "num_pages": 464,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834116/BookStore/Home_Deus_a0unwk.jpg"
   },
@@ -98,6 +103,7 @@
     "review_author": "Bill Gates",
     "genre": "Social Philosophy",
     "synopsis": "Yuval Noah Harari returns in August 2018 with a new book, 21 Lessons for the 21st Century. In bringing his focus to the here and now, Harari will help us to grapple with a world that is increasingly hard to comprehend, encouraging us to focus our minds on the essential questions we should be asking ourselves today. Employing his trademark entertaining and lucid style, Harari will examine some of the world’s most urgent issues, including terrorism, fake news and immigration, as well as turning to more individual concerns, from resilience and humility to meditation.",
+    "isPopular": false,
     "num_pages": 416,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834378/BookStore/21_Lessons_g9gxnf.jpg"
   },
@@ -115,6 +121,7 @@
     "review_author": "Jeffrey R. Baylis, Animal Behavior",
     "genre": "Biology",
     "synopsis": "The Selfish Gene is a 1976 book on evolution by the ethologist Richard Dawkins, in which the author builds upon the principal theory of George C. Williams's Adaptation and Natural Selection (1966). Dawkins uses the term 'selfish gene' as a way of expressing the gene-centred view of evolution (as opposed to the views focused on the organism and the group), popularising ideas developed during the 1960s by W. D. Hamilton and others. From the gene-centred view, it follows that the more two individuals are genetically related, the more sense (at the level of the genes) it makes for them to behave cooperatively with each other.",
+    "isPopular": true,
     "num_pages": 544,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664834994/BookStore/The_Selfish_gene_pie2yb.jpg"
   },
@@ -132,6 +139,7 @@
     "review_author": "The New York Times",
     "genre": "Social Philosophy",
     "synopsis": "In The God Delusion, Dawkins contends that a supernatural creator, God, almost certainly does not exist, and that belief in a personal god qualifies as a delusion, which he defines as a persistent false belief held in the face of strong contradictory evidence. He is sympathetic to Robert Pirsig's statement in Lila (1991) that 'when one person suffers from a delusion it is called insanity. When many people suffer from a delusion it is called religion.' With many examples, he explains that one does not need religion to be moral and that the roots of religion and of morality can be explained in non-religious terms.",
+    "isPopular": true,
     "num_pages": 434,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664835249/BookStore/The_God_delusion_zbvvel.jpg"
   },
@@ -149,6 +157,7 @@
     "review_author": "The Times",
     "genre": "Science",
     "synopsis": "Most chapters begin with brief re-tellings of creation myths that emerged as attempts to explain the origin of particular observed phenomena. Dawkins selects these myths from throughout the world, including Babylonian, Judeo-Christian, Aztec, Maori, Ancient Egyptian, Australian Aboriginal, Nordic, Hellenic, Chinese, Japanese, and other traditions. Chapter 9 ('Are we alone?') includes contemporary alien-abduction mythology; Chapter 4 ('What are things made of?') omits mythology altogether as Dawkins says that really small phenomena were unknown to primitive peoples prior to the invention of advanced optical magnification equipment, any texts they believed to be divinely inspired having failed to mention such useful knowledge as beyond human experience at the time. Dawkins also revisits his childhood and recalls his initial thoughts on these various phenomena or those thoughts expressed by his young contemporaries. Dawkins gives his critique of many of the myths, such as when he points out that much mythology involves some god's symbolic transgressive act performed just once, and that such one-time acts would be inadequate to explain the mechanism as to why the phenomena continue to happen in unbroken cycles.",
+    "isPopular": false,
     "num_pages": 276,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664835543/BookStore/The_Magic_of_Reality_xvrtqy.jpg"
   },
@@ -166,6 +175,7 @@
     "review_author": "Richard Dawkins",
     "genre": "Science",
     "synopsis": "Starry Messenger (2022) is about a way of looking at the world called the cosmic perspective. It’s the view that opens up when we think about human life in its largest possible context – that of the universe itself. This isn’t an exercise in making our worldly affairs seem small and trivial, though. It’s about unlocking insights that can help us live more happily and meaningfully on the cosmic anomaly we call Earth.",
+    "isPopular": true,
     "num_pages": 288,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664836290/BookStore/Starry_Messenger_Cosmic_Perspectives_on_Civilization_v8xodm.jpg"
   },
@@ -183,6 +193,7 @@
     "review_author": "Roy E. Perry, The Tennessean",
     "genre": "Cosmology",
     "synopsis": "Loyal readers of the monthly 'Universe' essays in Natural History magazine have long recognized Neil deGrasse Tyson's talent for guiding them through the mysteries of the cosmos with clarity and enthusiasm. Bringing together more than forty of Tyson's favorite essays, Death by Black Hole explores a myriad of cosmic topics, from what it would be like to be inside a black hole to the movie industry's feeble efforts to get its night skies right. One of America's best-known astrophysicists, Tyson is a natural teacher who simplifies the complexities of astrophysics while sharing his infectious fascination for our universe.",
+    "isPopular": false,
     "num_pages": 384,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838200/BookStore/Death_by_Black_Hole_And_Other_Cosmic_Quandaries_zg6kou.jpg"
   },
@@ -200,6 +211,7 @@
     "review_author": "Publishers Weekly",
     "genre": "Cosmology",
     "synopsis": "In this thought-provoking follow-up to his acclaimed StarTalk book, uber astrophysicist Neil deGrasse Tyson tackles the world's most important philosophical questions about the universe with wit, wisdom, and cutting-edge science.For science geeks, space and physics nerds, and all who want to understand their place in the universe, this enlightening new book from Neil deGrasse Tyson offers a unique take on the mysteries and curiosities of the cosmos, building on rich material from his beloved StarTalk podcast. In these illuminating pages, illustrated with dazzling photos and revealing graphics, Tyson and co-author James Trefil, a renowned physicist and science popularizer, take on the big questions that humanity has been posing for millennia—How did life begin? What is our place in the universe? Are we alone?—and provide answers based on the most current data, observations, and theories.",
+    "isPopular": false,
     "num_pages": 312,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838447/BookStore/Cosmic_Queries_StarTalk_s_Guide_to_Who_We_Are_How_We_Got_Here_and_Where_We_re_Going_z9dgdl.jpg"
   },
@@ -217,6 +229,7 @@
     "review_author": "The Sunday Times",
     "genre": "Cosmology",
     "synopsis": "A Brief History of Time: From the Big Bang to Black Holes is a book on theoretical cosmology by English physicist Stephen Hawking. It was first published in 1988. Hawking wrote the book for readers who had no prior knowledge of physics.In A Brief History of Time, Hawking writes in non-technical terms about the structure, origin, development and eventual fate of the Universe, which is the object of study of astronomy and modern physics. He talks about basic concepts like space and time, basic building blocks that make up the Universe (such as quarks) and the fundamental forces that govern it (such as gravity). He writes about cosmological phenomena such as the Big Bang and black holes. He discusses two major theories, general relativity and quantum mechanics, that modern scientists use to describe the Universe. Finally, he talks about the search for a unifying theory that describes everything in the Universe in a coherent manner.",
+    "isPopular": true,
     "num_pages": 212,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664838971/BookStore/a_brief_of_time_drkz4i.jpg"
   },
@@ -234,6 +247,7 @@
     "review_author": "Matin Durrani",
     "genre": "Cosmology",
     "synopsis": "Brief Answers to the Big Questions is a popular science book written by physicist Stephen Hawking, and published by Hodder & Stoughton (hardcover) and Bantam Books (paperback) on 16 October 2018. The book examines some of the universe's greatest mysteries, and promotes the view that science is very important in helping to solve problems on planet Earth.The publisher describes the book as 'a selection of [Hawking's] most profound, accessible, and timely reflections from his personal archive', and is based on, according to a book reviewer, 'half a million or so words' from his essays, lectures and keynote speeches.",
+    "isPopular": true,
     "num_pages": 312,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664839420/BookStore/Brief_Answers_To_The_Big_Questions_fzkdwf.jpg"
   },
@@ -251,6 +265,7 @@
     "review_author": "Kirkus Reviews",
     "genre": "Cosmology",
     "synopsis": "The book examines the history of scientific knowledge about the universe. It starts with the Ionian Greeks, who claimed that nature works by laws, and not by the will of the gods. It later presents the work of Nicolaus Copernicus, who advocated the concept that the Earth is not located in the center of the universe.It has tried to explain the topics in an easier manner. Many examples related from daily life, mythology and history have been taken to explain, such as- Viking Mythology about Skoll and Hati, movie 'The Matrix', Ptolemaic universe.",
+    "isPopular": false,
     "num_pages": 412,
     "image": "https://res.cloudinary.com/dc6vqigdn/image/upload/v1664839788/BookStore/The_Grand_Design_ycwrub.jpg"
   }
