@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Bookstore API
 It's a REST API, build with Node.js and Express. I choose my favorite books and I created them. For the front-end, I will use React, Redux, and Tailwindcss.
